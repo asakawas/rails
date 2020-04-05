@@ -32,7 +32,7 @@ In Rails, incoming requests are routed by Action Dispatch to an appropriate cont
 controller classes are derived from `ActionController::Base`. Action Dispatch and Action Controller
 are bundled together in [Action Pack](actionpack/README.rdoc).
 
-## View layer
+## View layer!
 
 The _**View layer**_ is composed of "templates" that are responsible for providing
 appropriate representations of your application's resources. Templates can
